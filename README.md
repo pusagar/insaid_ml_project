@@ -1,6 +1,6 @@
-# My Repo for the project at INSAID
+# My Repo for the ML  project at INSAID : Term4 : Foundation
 
-## Here is the  list of projects:
+## Here is the  list of ML projects:
 
 
 |  ML project |   |
