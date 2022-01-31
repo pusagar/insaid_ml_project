@@ -7,4 +7,4 @@ In recent years, data science has served as an indispensable tool when taking in
 
 With a growing awareness of corporate social and environmental accountability, potential investors can harness the power of data to enact responsible investing.
 
-Link to the grmfds lab : https://grmds.org/node/9626
+Competition organized by RDMS Lab in Jan 2022 : https://grmds.org/braceImpact & : https://grmds.org/node/9626
